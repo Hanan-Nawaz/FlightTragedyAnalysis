@@ -28,7 +28,7 @@ This repository contains the code and data for the FlightTragedyAnalysis Data En
 
 - Created a data model to define the structure and relationships within the dataset.
 
-![ERD](https://previews.dropbox.com/p/thumb/ACAeb33WgNiyFWR4EHU2QMtAsJIUl6-vdzCnQXprfyFoyAsmU_IuS1KuMNuDqgPFSmI1ba3haYBEU4Qz8VnEmPPeBR2PeAuZm-Or-5q3AjzzJvO_MQQNv1OkU0s0v5ZRUv-hzZFuXY6GgUyNA34v5-IP0MM0W62-17VdoR1nzlqkboUTnglYpg5s0-j_ABvtTg86FLgTpryQJ9_2DdrsoKf9JBzZalfxq7t_XID27ANs6-BFatSQ5W-cBINPoSHi8aaxzDcMfW_75K-dJCqHoWCp75Wq5qdRxD8SjvFp7gjwu5ZWumt5-TnPaApTqs4pV8FjNdMoGRaNVjyFU0Jyf1gY/p.png)
+![ERD](/data_model/Plane-Crash-Data-ERD.png)
 
 ### 3. Database Creation
 
@@ -68,6 +68,7 @@ This repository contains the code and data for the FlightTragedyAnalysis Data En
 ## Repository Structure
 
 - `data/`: Contains the downloaded dataset and any intermediate data files.
+- `data_model/`: Contains the data model and any other data files.
 - `scripts/`: Includes Python scripts for data extraction, transformation, and loading (ETL).
 - `database/`: Contains scripts or documentation related to the database setup.
 - `power_bi/`: Stores files related to the Power BI dashboard.
