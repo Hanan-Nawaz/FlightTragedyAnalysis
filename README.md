@@ -1,5 +1,7 @@
 # Flight Tragedy Analysis
 
+<img src="/data_model/flight-tragedy-analysis-logo.jpg" width="100%" height="300px" />
+
 ## Overview
 
 **Flight Tragedy Analysis** is a comprehensive data analysis project focused on examining aviation accidents and incidents from 1905 to 2009. This project provides users with valuable insights into historical plane crashes and their associated data.
@@ -28,7 +30,7 @@ This repository contains the code and data for the FlightTragedyAnalysis Data En
 
 - Created a data model to define the structure and relationships within the dataset.
 
-![ERD](/data_model/Plane-Crash-Data-ERD.png)
+<img src="/data_model/Plane-Crash-Data-ERD.png" width="100%" height="600px" />
 
 ### 3. Database Creation
 
@@ -88,12 +90,12 @@ To replicate this project, follow these steps:
 
 ## Data Source
 
-- Dataset: [Kaggle - Historical Plane Crashes](https://www.kaggle.com/datasets/saurograndi/airplane-crashes-since-1908)
+- Dataset: [Kaggle - Airplane Crashes Since 1908](https://www.kaggle.com/datasets/saurograndi/airplane-crashes-since-1908)
 
 ## Contributors
 
 - [Abdul Hanan Nawaz](https://www.github.com/Hanan-Nawaz)
-- Associate Data Engineer 
+ (Associate Data Engineer)
 
 Feel free to contribute to this project or contact the contributors for more information.
 
