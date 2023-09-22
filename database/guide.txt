@@ -1,0 +1,2 @@
+This folder contains following files
+  1) database.ipynb -> This file contains script of python to create our database "flight_crashes" in Postgresql.
