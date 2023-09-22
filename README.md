@@ -32,7 +32,7 @@ This repository contains the code and data for the FlightTragedyAnalysis Data En
 
 - Created a data model to define the structure and relationships within the dataset.
 
-<img src="/data_model/Plane-Crash-Data-ERD.png" width="100%" height="600px" />
+<img src="/data_model/Plane-Crash-Data-ERD.png" width="100%" height="590px" />
 
 ### 3. Database Creation
 
