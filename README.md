@@ -6,6 +6,8 @@
 
 **Flight Tragedy Analysis** is a comprehensive data analysis project focused on examining aviation accidents and incidents from 1905 to 2009. This project provides users with valuable insights into historical plane crashes and their associated data.
 
+<img src="/FlightTragedyAnalysis-roadmap.png" width="100%" height="300px" />
+
 ### Core Features
 
 1. **Extensive Data Repository**: The project houses a rich dataset containing detailed information about plane crashes, including date, time, location, operator, flight number, route, aircraft type, registration, casualties, and more.
