@@ -1,0 +1,2 @@
+This directory contains following files
+  1) data-to-postgresql.ipynb -> Contains code for Loading data from CSV to Relational Database "flight_crashes" using Pandas and Psycopg2.
